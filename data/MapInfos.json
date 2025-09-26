@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"测试地图","order":1,"parentId":0,"scrollX":1139,"scrollY":698.5},
+{"id":2,"expanded":false,"name":"月之森礼堂","order":2,"parentId":1,"scrollX":1127,"scrollY":686.5}
 ]

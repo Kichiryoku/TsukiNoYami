@@ -6,5 +6,5 @@ null,
 {"id":4,"expanded":true,"name":"剧情开场","order":6,"parentId":0,"scrollX":751,"scrollY":457.6666666666667},
 {"id":5,"expanded":false,"name":"艺术楼","order":3,"parentId":0,"scrollX":751,"scrollY":457.6666666666667},
 {"id":6,"expanded":false,"name":"音乐室","order":5,"parentId":5,"scrollX":1139,"scrollY":636},
-{"id":7,"expanded":false,"name":"教学楼","order":7,"parentId":0,"scrollX":759.3333333333334,"scrollY":424}
+{"id":7,"expanded":false,"name":"教学楼","order":7,"parentId":0,"scrollX":751,"scrollY":457.6666666666667}
 ]

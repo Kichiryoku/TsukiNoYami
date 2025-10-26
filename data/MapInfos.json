@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":false,"name":"月之森礼堂","order":2,"parentId":1,"scrollX":751,"scrollY":457.6666666666667},
 {"id":3,"expanded":true,"name":"Mujica排练地下室","order":11,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":4,"expanded":true,"name":"剧情开场","order":4,"parentId":0,"scrollX":1139,"scrollY":636},
-{"id":5,"expanded":true,"name":"艺术楼","order":3,"parentId":0,"scrollX":1012.4444444444445,"scrollY":565.3333333333334},
+{"id":5,"expanded":true,"name":"艺术楼","order":3,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":6,"expanded":false,"name":"音乐排练室","order":13,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":7,"expanded":true,"name":"教室-纵","order":5,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":8,"expanded":true,"name":"教室-横","order":6,"parentId":0,"scrollX":1139,"scrollY":636},
@@ -12,5 +12,5 @@ null,
 {"id":10,"expanded":false,"name":"相谈室-外","order":8,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":11,"expanded":false,"name":"相谈室-内","order":9,"parentId":0,"scrollX":1139,"scrollY":636},
 {"id":12,"expanded":false,"name":"食堂餐厅","order":10,"parentId":0,"scrollX":1139,"scrollY":636},
-{"id":13,"expanded":false,"name":"食堂用餐区域","order":12,"parentId":0,"scrollX":1131,"scrollY":696}
+{"id":13,"expanded":false,"name":"食堂用餐区域","order":12,"parentId":0,"scrollX":1131,"scrollY":636}
 ]
